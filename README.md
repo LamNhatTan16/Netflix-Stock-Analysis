@@ -46,7 +46,7 @@ Make sure you have the following installed:
 
 ## 📈 Sample Output
 ```bash
-Risk Metrics: {'Mean Return': 0.0012, 'Standard Deviation': 0.02, 'Value at Risk (VaR)': -0.03, 'Conditional VaR (CVaR)': -0.05}
+Risk Metrics: {'Mean Return': 0.0017, 'Standard Deviation': 0.0361, 'Value at Risk (VaR)': -0.0446, 'Conditional VaR (CVaR)': -0.0761}
 Dữ liệu đã được lưu tại: datasets/processed_data.csv
 ```
 
