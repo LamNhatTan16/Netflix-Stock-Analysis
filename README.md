@@ -39,7 +39,7 @@ This project analyzes Netflix stock data to gain insights into its financial per
 ## ⚡ How to Run the Project
 ### **Requirements**
 Make sure you have the following installed:
-- Python 3.x
+- Python 3
 - Pandas
 - NumPy
 - Matplotlib
