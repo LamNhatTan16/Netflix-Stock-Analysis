@@ -44,21 +44,6 @@ Make sure you have the following installed:
 - NumPy
 - Matplotlib
 
-### **Execution Steps**
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-github-username/Personal-Project.git
-   cd Personal-Project
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the script:
-   ```bash
-   python stock_analysis.py
-   ```
-
 ## 📈 Sample Output
 ```bash
 Risk Metrics: {'Mean Return': 0.0012, 'Standard Deviation': 0.02, 'Value at Risk (VaR)': -0.03, 'Conditional VaR (CVaR)': -0.05}
@@ -85,5 +70,4 @@ Dữ liệu đã được lưu tại: datasets/processed_data.csv
 - Add **Machine Learning models** for stock price prediction.
 - Automate data collection using Kaggle API.
 
-📢 **Feel free to contribute to this project!** 🚀
 
