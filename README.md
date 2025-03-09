@@ -16,7 +16,7 @@ This project analyzes Netflix stock data to gain insights into its financial per
 
 ## 🚀 Project Steps
 ### **1. Data Collection**
-- The dataset was downloaded from Kaggle and saved as `datasets/NFLX.csv`.
+- The dataset was downloaded from Kaggle and stack 5 fille to 1 file saved as `raw_data.csv`.
 
 ### **2. Data Preparation & Processing**
 - Remove duplicate records.
