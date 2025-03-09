@@ -57,11 +57,11 @@ Dữ liệu đã được lưu tại: datasets/processed_data.csv
 
 ## 📂 Project Structure
 ```
-📁 Personal-Project/
-│-- 📄 stock_analysis.py  # Main script
+📁 Netflix-Stock_Analysis/
+│-- 📄 analysis.py  # Main script
 │-- 📄 README.md  # Project documentation
 │-- 📂 datasets/
-│   │-- NFLX.csv  # Raw stock data
+│   │-- raw_data.csv  # Raw stock data
 │   │-- processed_data.csv  # Cleaned and analyzed data
 ```
 
